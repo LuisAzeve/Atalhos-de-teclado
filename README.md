@@ -1,33 +1,35 @@
-Automação de Frases e Textos 
+# Automação de Frases e Textos
 
 Este projeto tem como objetivo automatizar respostas e textos repetitivos, economizando tempo e aumentando a produtividade em tarefas como:
-Respostas de Chamados
-Preenchimento de formulários
-Mensagens padrão em e-mails ou chats
 
-✨ Exemplo de Funcionamento
+- Respostas de chamados  
+- Preenchimento de formulários  
+- Mensagens padrão em e‑mails ou chats  
 
-Ao digitar um comando como .exemplo, o script automaticamente escreve:
-"Bom dia, este é um exemplo"
+## ✨ Exemplo de Funcionamento
 
-🚀 Motivação
-
-Criei este projeto para agilizar minha rota no helpdesk e outras atividades administrativas, após repetições de texto são constantes. Esta automation me ajuda a responder mais rápido, com mais consistência e menos esforço.
-Se você tem trabalho com apoio, atendimento ou qualidade que exija mensagens padronizadas, este projeto pode ser uma mão na roda.
-
-🧠 Como Usar
-
-Basicamente, você configura palavras-chave (.comando) que disparam textos inteiros, reduzindo a digitação e o retrabalho.
-
-💡 Sugestões e Contribuições
-
-Quer contribuir com experiências ou sugerir novos recursos?
+Ao digitar um comando como `.exemplo`, o script automaticamente escreve: "Bom dia, este é um exemplo"
 
 
-Para sugerir uma melhoria ou reportar um bug:
-Vá até a aba Issues
-Clique em Nova Edição
-Escolha se deseja reportar um bug, sugerir funcionalidade ou outra coisa
-Escreva de forma clara e objetiva
 
-🤝 Se você leu até aqui, valeu demais! Se usar ou curtir o projeto, deixa uma ⭐ no repositório isso ajuda muito!
+## 🚀Motivação
+
+Criei este projeto para agilizar minha rotina no helpdesk e em outras atividades administrativas, onde repetições de texto são constantes. Essa automação me ajuda a responder mais rápido, com mais consistência e menos esforço.
+
+Se você trabalha com atendimento, suporte ou qualquer função que exige mensagens padronizadas, este projeto pode ser uma mão na roda.
+
+## 🧠Como Usar
+
+Basta configurar palavras‑chave (como `.comando`) que disparam textos inteiros — reduzindo digitação e retrabalho.
+
+## 💡Sugestões e Contribuições
+
+Quer sugerir recurso ou reportar algo?
+
+1. Abra a aba **Issues**
+2. Clique em **New Issue**
+3. Explique de forma clara se é bug, funcionalidade ou outro
+4. Se quiser contribuir com código, faça um **fork**, crie uma branch e abra um pull request
+
+---
+Se achou útil, deixe uma ⭐ no repositório  isso ajuda muito!
